@@ -1,24 +1,24 @@
 const Colors = {
-  primary: '#6D5EF5',
-  secondary: '#36D7B7',
-  accent: '#F4B942',
+  primary: '#2563EB',
+  secondary: '#3B82F6',
 
-  background: '#111827',
-  surface: '#1B2433',
+  background: '#0F172A',
 
   white: '#FFFFFF',
 
-  textPrimary: '#F9FAFB',
-  textSecondary: '#9CA3AF',
+  card: '#FFFFFF',
 
-  border: '#2C3648',
+  inputBorder: '#E2E8F0',
 
-  inputBackground: '#1F2937',
+  text: '#111827',
 
-  error: '#EF4444',
-  success: '#10B981',
+  subtitle: '#64748B',
 
-  transparent: 'transparent',
+  divider: '#CBD5E1',
+
+  placeholder: '#94A3B8',
+
+  googleBorder: '#D1D5DB',
 };
 
 export default Colors;
